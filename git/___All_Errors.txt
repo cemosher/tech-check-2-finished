@@ -1,0 +1,5 @@
+CorrelationId: d2152191-6b0f-440c-a64b-156f619e5dd4
+UTC DateTime: 3/18/2022 1:19:29 PM
+
+The following file/folder has not been downloaded
+0. .git
